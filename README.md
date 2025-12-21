@@ -6,7 +6,6 @@
 ## 📞 Contact 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serih0219@gmail.com)
-[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=000000)](https://open.kakao.com/o/YOUR_KAKAO_LINK)
 
 ---
 ## 💻 Tech Stack
