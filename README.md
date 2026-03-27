@@ -2,11 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=600&color=8A5A6D&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+·+Nice+to+meet+you!)
 
-## 🧠 Research Focus
-I’m interested in **Vision–Language Models** and **multimodal learning**, with a focus on applying them to **medical imaging** and **human-centered AI**.
-
-- Vision–Language / Multimodal Models (CV ↔ Language)
-- Medical Imaging & AI-based Healthcare
 
 ---
 
