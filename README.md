@@ -3,7 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=600&color=8A5A6D&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+·+Nice+to+meet+you!)
 
 
----
 
 ## 📞 Contact 
 
